@@ -1,0 +1,26 @@
+
+  .content img{
+    width:100%;
+    height: 150px;
+  }
+  .profile__img img{
+    margin-top: 5px;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .profile__head{
+    display: flex;
+  }
+  .profile-text ul{
+    list-style: none;
+    margin: 0 0 0 35px; 
+    padding: 0;
+  }
+  .profile-text li:first-child{
+    margin-bottom: 20px;
+  }
+
+  .posts{
+    font-size: 24px;
+  }

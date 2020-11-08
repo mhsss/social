@@ -1,0 +1,19 @@
+.header img {
+    height: 60px;
+}
+
+.header {
+    display: flex;
+    grid-area: a;
+    background-color: green;
+    justify-content: space-between;
+    align-items: center;
+}
+.loginLink a {
+    color: white;
+    padding-right: 50px;
+}
+.loginLink {
+    padding-right: 50px;
+    color: white;
+}

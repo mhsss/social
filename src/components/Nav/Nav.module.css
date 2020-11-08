@@ -1,0 +1,19 @@
+.nav li {
+    list-style: none;
+  }
+  .nav a{
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  
+  
+  .nav {
+    grid-area: b;
+    background-color: green;
+  }
+
+  .nav a.active{
+    color: gold;
+  }
+   

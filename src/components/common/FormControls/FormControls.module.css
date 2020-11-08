@@ -1,0 +1,15 @@
+.formControl  {
+    color: red;
+    margin-bottom: 15px;
+}
+.error textarea {
+    border: solid red 1px;
+}
+
+
+.formSummaryError {
+    display: inline-block;
+    border: 1px #ff0000 solid;
+    padding: 5px;
+    color:rosybrown
+}
